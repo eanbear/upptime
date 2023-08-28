@@ -13,7 +13,7 @@ sites:
     url: $SITE_CNPWK
   - name: Pwk_en
     url: $SITE_ENPWK
-    - name: DeckM_cn
+  - name: DeckM_cn
     url: $SITE_CNDECKM
   - name: DeckM_en
     url: $SITE_ENDECKM
