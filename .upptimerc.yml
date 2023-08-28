@@ -9,6 +9,8 @@ sites:
     url: https://www.baidu.com
   - name: Bing
     url: https://www.bing.com
+  - name: Pwk_cn
+    url: $SITE_CNPWK
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
