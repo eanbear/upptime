@@ -11,6 +11,14 @@ sites:
     url: https://www.bing.com
   - name: Pwk_cn
     url: $SITE_CNPWK
+  - name: Pwk_en
+    url: $SITE_ENPWK
+    - name: DeckM_cn
+    url: $SITE_CNDECKM
+  - name: DeckM_en
+    url: $SITE_ENDECKM
+  - name: fstdec
+    url: $SITE_FSTDEC
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
