@@ -1,7 +1,7 @@
 url: $SITE_ENPWK
-status: up
-code: 200
-responseTime: 3037
-lastUpdated: 2023-08-29T01:17:11.190Z
+status: down
+code: 502
+responseTime: 21859
+lastUpdated: 2023-08-29T19:46:58.254Z
 startTime: 2023-08-28T07:23:22.878Z
 generator: Upptime <https://github.com/upptime/upptime>
