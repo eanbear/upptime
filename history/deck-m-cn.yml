@@ -1,7 +1,7 @@
 url: $SITE_CNDECKM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-13T07:38:43.333Z
+status: up
+code: 200
+responseTime: 1613
+lastUpdated: 2023-09-13T08:21:00.006Z
 startTime: 2023-08-28T07:23:28.038Z
 generator: Upptime <https://github.com/upptime/upptime>
