@@ -154,7 +154,7 @@
     "url": "$SITE_ENDECKM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deck-m-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "84.00%",
     "uptimeWeek": "97.71%",
