@@ -159,18 +159,19 @@
     "url": "$SITE_ENDECKM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deck-m-en",
-    "status": "up",
-    "uptime": "98.57%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.91%",
-    "uptimeYear": "98.57%",
+    "uptimeMonth": "90.39%",
+    "uptimeYear": "98.59%",
     "time": 2312,
     "timeDay": 1804,
     "timeWeek": 1940,
-    "timeMonth": 2084,
+    "timeMonth": 2078,
     "timeYear": 2312,
     "dailyMinutesDown": {
+      "2024-05-02": 0,
       "2024-04-11": 360,
       "2024-04-10": 461,
       "2024-04-09": 478,
@@ -183,8 +184,7 @@
       "2024-04-02": 378,
       "2024-04-01": 265,
       "2024-03-31": 291,
-      "2024-03-20": 67,
-      "2023-11-26": 43
+      "2024-03-20": 67
     }
   },
   {
