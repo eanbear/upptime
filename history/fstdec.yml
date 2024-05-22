@@ -1,7 +1,7 @@
 url: $SITE_FSTDEC
-status: down
-code: 530
-responseTime: 880
-lastUpdated: 2024-05-22T02:11:16.957Z
+status: up
+code: 200
+responseTime: 986
+lastUpdated: 2024-05-22T02:43:18.477Z
 startTime: 2023-08-28T07:23:37.679Z
 generator: Upptime <https://github.com/upptime/upptime>
