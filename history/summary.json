@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pwk-cn",
     "status": "down",
-    "uptime": "89.42%",
+    "uptime": "89.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.23%",
+    "uptimeYear": "81.16%",
     "time": 2914,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3227,
     "dailyMinutesDown": {
-      "2025-12-26": 1422,
+      "2025-12-27": 328,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -115,7 +116,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pwk-en",
     "status": "down",
-    "uptime": "39.67%",
+    "uptime": "39.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -126,7 +127,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 1422,
+      "2025-12-27": 328,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -489,8 +491,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -554,18 +555,19 @@
     "url": "$SITE_ENDECKM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "deck-m-en",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "54.25%",
-    "uptimeWeek": "62.23%",
-    "uptimeMonth": "85.38%",
+    "uptimeDay": "67.35%",
+    "uptimeWeek": "62.95%",
+    "uptimeMonth": "85.42%",
     "uptimeYear": "98.78%",
-    "time": 2821,
-    "timeDay": 3068,
-    "timeWeek": 3245,
+    "time": 2822,
+    "timeDay": 3180,
+    "timeWeek": 3201,
     "timeMonth": 3113,
     "timeYear": 2981,
     "dailyMinutesDown": {
+      "2025-12-27": 0,
       "2025-12-26": 644,
       "2025-12-25": 268,
       "2025-12-24": 491,
@@ -576,8 +578,7 @@
       "2025-12-19": 524,
       "2025-12-18": 688,
       "2025-12-17": 640,
-      "2025-12-16": 726,
-      "2025-12-15": 19
+      "2025-12-16": 726
     }
   },
   {
