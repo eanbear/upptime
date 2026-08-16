@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "17.64%",
+    "uptimeYear": "17.62%",
     "time": 3434,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2996,
     "dailyMinutesDown": {
-      "2026-08-16": 456,
+      "2026-08-16": 515,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -355,7 +355,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 456,
+      "2026-08-16": 515,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -846,16 +846,16 @@
     "url": "$SITE_FSTDEC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fstdec",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.46%",
     "time": 1830,
-    "timeDay": 612,
-    "timeWeek": 1391,
-    "timeMonth": 1259,
+    "timeDay": 1033,
+    "timeWeek": 1435,
+    "timeMonth": 1277,
     "timeYear": 1776,
     "dailyMinutesDown": {
       "2025-08-21": 17,
@@ -899,7 +899,7 @@
       "2026-05-01": 130,
       "2026-05-05": 137,
       "2026-08-11": 64,
-      "2026-08-16": 0
+      "2026-08-16": 60
     }
   }
 ]
