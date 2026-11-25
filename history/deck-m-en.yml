@@ -1,7 +1,7 @@
 url: $SITE_ENDECKM
-status: up
-code: 200
-responseTime: 2226
-lastUpdated: 2026-11-24T06:32:43.783Z
+status: down
+code: 511
+responseTime: 985
+lastUpdated: 2026-11-25T04:02:08.060Z
 startTime: 2023-08-28T07:23:35.419Z
 generator: Upptime <https://github.com/upptime/upptime>
